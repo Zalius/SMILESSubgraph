@@ -1,2 +1,2 @@
-# SMILESSubgraph
-SMILES Subgraph method
+# SMILES Subgraph
+SMILES Subgraph Implementation
